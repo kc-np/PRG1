@@ -1,6 +1,6 @@
 # PRG1
 
-PRG1 is a module in semester 1.1 of the CSF course, focusing on Python language.
+PRG1 (Programming 1) is a module in semester 1.1 of the CSF course in Ngee Ann Polytechnic, focusing on Python language.
 
 This repository contains my Python code written for the module's assignment.
 
